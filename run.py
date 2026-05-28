@@ -1,6 +1,6 @@
 import logging
 import cv2
-import mediapipe as mp  # type: ignore[import]
+import mediapipe as mp
 import numpy as np
 import time
 import subprocess
